@@ -1,4 +1,6 @@
-8953bd1 (HEAD -> main) Task 2.1
+3cd0d63 (HEAD -> main) Task 2.2
+4da7167 Task 2.1 log
+8953bd1 Task 2.1
 9022694 (origin/main, origin/HEAD) Task 1.2
 aea6cb0 Task 1.1
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.

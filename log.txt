@@ -1,3 +1,10 @@
+420af10 Task 2.4
+73d774f Task 2.3 log
+b11d1a4 Task 2.3
+37d21c4 Task 2.2 log
+3cd0d63 Task 2.2
+4da7167 Task 2.1 log
+8953bd1 Task 2.1
 9022694 Task 1.2
 aea6cb0 Task 1.1
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
